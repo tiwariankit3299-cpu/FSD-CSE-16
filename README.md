@@ -2,6 +2,7 @@
 
 Coursework is organized into numbered day folders:
 
+- `day1/` - JavaScript fundamentals exercises
 - `day2/` - Synchronous, asynchronous, callback, and promise examples
 - `day3/` - Cart and JavaScript exercises
 - `day4/` - React element and component exercises
